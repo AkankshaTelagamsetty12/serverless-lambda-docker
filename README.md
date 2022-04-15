@@ -25,13 +25,11 @@ Follow the tutorial at https://www.philschmid.de/serverless-bert-with-huggingfac
 <img width="1439" alt="Screen Shot 2022-04-15 at 12 13 08 AM" src="https://user-images.githubusercontent.com/91446801/163517906-38a84493-f8c8-490d-9a5a-e12c36a20dc2.png">
 
 ## Testing using Postman
-
-<img width="1431" alt="Screen Shot 2022-04-13 at 7 36 17 PM" src="https://user-images.githubusercontent.com/91446801/163517948-a2bce77b-9911-4e54-b472-50442d31a0cf.png">
-
+### Summarization
 
 <img width="1431" alt="Screen Shot 2022-04-13 at 7 38 47 PM" src="https://user-images.githubusercontent.com/91446801/163517967-4828a9df-f0da-4ae8-82f8-98721ab4fc8c.png">
 
-
+### Named Entity Recognition
 <img width="1431" alt="Screen Shot 2022-04-13 at 8 36 38 PM" src="https://user-images.githubusercontent.com/91446801/163517972-a33e580a-65a9-4c85-9ef8-0d3d7d448a2b.png">
 
 
