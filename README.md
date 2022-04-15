@@ -30,6 +30,10 @@ Huggung Face models:
 
 <img width="1439" alt="Screen Shot 2022-04-15 at 12 13 08 AM" src="https://user-images.githubusercontent.com/91446801/163517906-38a84493-f8c8-490d-9a5a-e12c36a20dc2.png">
 
+## POST urls after deployment
+- For summarization: https://eyzkheoq1d.execute-api.us-east-1.amazonaws.com/dev/qa
+- For NER : https://ej1c3zhs6g.execute-api.us-east-1.amazonaws.com/dev/qa
+
 ## Testing using Postman
 ### Summarization
 
