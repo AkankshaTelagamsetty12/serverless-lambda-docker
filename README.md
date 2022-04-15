@@ -15,6 +15,11 @@ Steps involved:
 
 
 Follow the tutorial at https://www.philschmid.de/serverless-bert-with-huggingface-aws-lambda-docker to create docker images.
+
+Huggung Face models:
+- For text summarization: https://huggingface.co/sshleifer/distilbart-cnn-12-6
+- For Named Entity Recognition: https://huggingface.co/dslim/bert-base-NER
+
 ## Creating docker images:
 
 <img width="1272" alt="Screen Shot 2022-04-15 at 12 11 55 AM" src="https://user-images.githubusercontent.com/91446801/163517295-d5839159-d3f0-4694-9f47-3ce8b5f5bf49.png">
