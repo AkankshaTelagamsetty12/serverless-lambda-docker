@@ -11,7 +11,8 @@ Steps involved:
 -  Deploy AWS Lambda function with a custom docker image
 -  Test Serverless APIs
 
-https://www.philschmid.de/static/40699c51c9b076cb14e14c31f432fc19/21482/architecture.png![image](https://user-images.githubusercontent.com/91446801/163517775-27c66aa4-1a8e-438e-b234-ae183cf903d5.png)
+![arch](https://user-images.githubusercontent.com/91446801/163518703-e9c06353-4bae-402a-84df-3cfe0739c533.png)
+
 
 Follow the tutorial at https://www.philschmid.de/serverless-bert-with-huggingface-aws-lambda-docker to create docker images.
 ## Creating docker images:
