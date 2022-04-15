@@ -34,7 +34,8 @@ Follow the tutorial at https://www.philschmid.de/serverless-bert-with-huggingfac
 <img width="1431" alt="Screen Shot 2022-04-13 at 8 36 38 PM" src="https://user-images.githubusercontent.com/91446801/163517972-a33e580a-65a9-4c85-9ef8-0d3d7d448a2b.png">
 
 
-
+### Link for the codelabs:
+https://codelabs-preview.appspot.com/?file_id=1376pofyspTVM8YhhbUKDEpiNaxczACY9KN0wI6lGPEg#0
 
 ## References:
  1. https://github.com/philschmid/serverless-bert-huggingface-aws-lambda-docker
